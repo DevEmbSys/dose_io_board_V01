@@ -1,0 +1,16 @@
+Added Component: Designator=U?(Nordic_QFN50P500X500X90-33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "QFN-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2019-01-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "nRF52811-QCAAA0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "nRF52811-QCAAA0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2019-01-30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "nRF52811-QCAA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-33
+Added Net: Name=GND
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? 1
+Added Member To Class: ClassName=Sheet_v1 Member=Component U? nRF52811-QCAA

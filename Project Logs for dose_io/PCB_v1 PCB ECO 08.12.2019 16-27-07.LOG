@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D2-13
+Added Pin To Net: NetName=GND Pin=D2-19
+Added Pin To Net: NetName=GND Pin=D2-21
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 4.7u
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? C_TANTAL
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? C_TANTAL
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 560p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 4.7u
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? MIC23050-SYML
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? STBC08
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? IIS2DH
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? BQ51013B

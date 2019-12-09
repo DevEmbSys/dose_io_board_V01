@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=L? Old Footprint=L1608 New Footprint=L2016
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? MIC23050-SYML
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? STBC08
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? IIS2DH
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? BQ51013B

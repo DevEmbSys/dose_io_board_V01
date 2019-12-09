@@ -1,0 +1,15 @@
+Component   : 12BH092-GR
+PCB Library : PcbLib1.PcbLib
+Date        : 27.07.2019
+Time        : 23:22:54
+
+
+
+Dimension : 52.705 x 13.818 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 4          0        0       0        0
+ Top Overlay                 0         10        0       0        0
+--------------------------------------------------------------------
+ Total                       4         10        0       0        0

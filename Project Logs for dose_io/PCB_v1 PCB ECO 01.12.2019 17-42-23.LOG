@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Added Component: Designator=J?(U.FL)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet_v1 Member=Component D1 STM32WB55Rx
+Added Member To Class: ClassName=Sheet_v1 Member=Component J? Connector(U.FL)

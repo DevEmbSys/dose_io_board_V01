@@ -1,0 +1,22 @@
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=SIM_CLK Pin=D2-16
+Added Pin To Net: NetName=SIM_CLK Pin=D?-6
+Added Net: Name=SIM_CLK
+Added Pin To Net: NetName=SIM_DATA Pin=D2-15
+Added Pin To Net: NetName=SIM_DATA Pin=D?-3
+Added Net: Name=SIM_DATA
+Added Pin To Net: NetName=SIM_RST Pin=D2-17
+Added Pin To Net: NetName=SIM_RST Pin=D?-7
+Added Net: Name=SIM_RST
+Added Pin To Net: NetName=SIM_VDD Pin=D2-18
+Added Pin To Net: NetName=SIM_VDD Pin=D?-8
+Added Net: Name=SIM_VDD
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? C_TANTAL
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? C_TANTAL
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 560p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 4.7u
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 4.7u
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? IIS2DH
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? BQ51013B
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? STBC08
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? MIC23050-SYML

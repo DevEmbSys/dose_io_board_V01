@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=D?-AD
+Removed Member From Class: ClassName=Sheet_v1 Member=C?
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=C10 NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Added Pin To Net: NetName=NetC5_1 Pin=D6-COMM1
+Change Net Name : Old Net Name=NetC8_1 New Net Name=NetC10_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C6-1
+Added Pin To Net: NetName=NetC5_2 Pin=D6-AC1
+Added Pin To Net: NetName=NetC5_2 Pin=D6-AC1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=D6-BOOT1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=C9-2
+Added Pin To Net: NetName=NetC8_1 Pin=D6-AC2
+Added Pin To Net: NetName=NetC8_1 Pin=D6-AC2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=D6-BOOT2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=D6-COMM2
+Added Net: Name=NetC9_1
+Added Member To Class: ClassName=Sheet_v1 Member=Component C11 4.7u
+Added Member To Class: ClassName=Sheet_v1 Member=Component C12 4.7u

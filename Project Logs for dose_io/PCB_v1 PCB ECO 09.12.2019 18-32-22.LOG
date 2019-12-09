@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=C5-1
+Removed Pin From Net: NetName=NetC5_1 Pin=C8-1
+Removed Pin From Net: NetName=NetC5_1 Pin=C13-1
+Change Component Footprint: Designator=C5 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C8 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C9 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C10 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C11 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C13 Old Footprint=C0805 New Footprint=C0603
+Change Component Comment : Designator=C5 Old Comment=NF New Comment=C
+Change Component Comment : Designator=C8 Old Comment=NF New Comment=C
+Change Component Comment : Designator=C10 Old Comment=NF New Comment=C
+Change Component Comment : Designator=C11 Old Comment=NF New Comment=C
+Change Component Comment : Designator=C13 Old Comment=NF New Comment=C
+Added Pin To Net: NetName=NetC5_1 Pin=C5-2
+Added Pin To Net: NetName=NetC5_1 Pin=C8-2
+Added Pin To Net: NetName=NetC5_1 Pin=C13-2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC5_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C8-1
+Added Pin To Net: NetName=NetC5_1 Pin=C13-1
+Added Pin To Net: NetName=NetC5_1 Pin=P3-2
+Added Net: Name=NetC5_1

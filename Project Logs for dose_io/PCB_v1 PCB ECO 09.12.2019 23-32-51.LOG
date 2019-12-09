@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=3V3 Pin=D2-14
+Added Pin To Net: NetName=GSM_RTS Pin=D2-5
+Added Pin To Net: NetName=GSM_RTS Pin=D3-3
+Added Net: Name=GSM_RTS
+Added Pin To Net: NetName=MCU_CTS Pin=D2-10
+Added Net: Name=MCU_CTS
+Added Member To Class: ClassName=Sheet_v1 Member=Component C6 100n

@@ -1,0 +1,112 @@
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C12
+Change Component Designator: OldDesignator=C7 NewDesignator=C14
+Change Component Designator: OldDesignator=C8 NewDesignator=C17
+Change Component Designator: OldDesignator=C9 NewDesignator=C18
+Change Component Designator: OldDesignator=C10 NewDesignator=C19
+Change Component Designator: OldDesignator=C11 NewDesignator=C20
+Change Component Designator: OldDesignator=C12 NewDesignator=C21
+Change Component Designator: OldDesignator=C13 NewDesignator=C22
+Change Component Designator: OldDesignator=C14 NewDesignator=C23
+Change Component Designator: OldDesignator=C15 NewDesignator=C24
+Change Component Designator: OldDesignator=C16 NewDesignator=C25
+Change Component Designator: OldDesignator=C17 NewDesignator=C26
+Change Component Designator: OldDesignator=C18 NewDesignator=C27
+Change Component Designator: OldDesignator=C19 NewDesignator=C28
+Change Component Designator: OldDesignator=C20 NewDesignator=C29
+Change Component Designator: OldDesignator=C21 NewDesignator=C30
+Change Component Designator: OldDesignator=C22 NewDesignator=C31
+Change Component Designator: OldDesignator=C23 NewDesignator=C32
+Change Component Designator: OldDesignator=C24 NewDesignator=C33
+Change Component Designator: OldDesignator=C25 NewDesignator=C34
+Change Component Designator: OldDesignator=C26 NewDesignator=C35
+Change Component Designator: OldDesignator=C27 NewDesignator=C36
+Change Component Designator: OldDesignator=L1 NewDesignator=L2
+Added Component: Designator=C5(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C11(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(L0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XTAL1(NX2016SA)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XTAL2(NX2012SA)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=3V3 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=U1-31
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetC17_1 New Net Name=NetC26_1
+Change Net Name : Old Net Name=NetC21_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC31_2
+Change Net Name : Old Net Name=NetC23_2 New Net Name=NetC32_2
+Change Net Name : Old Net Name=NetC25_1 New Net Name=NetC34_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-46
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=U1-35
+Added Pin To Net: NetName=NetC6_1 Pin=XTAL1-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-2
+Added Pin To Net: NetName=NetC8_2 Pin=XTAL2-2
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U1-34
+Added Pin To Net: NetName=NetC9_1 Pin=XTAL1-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U1-33
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U1-3
+Added Pin To Net: NetName=NetC13_2 Pin=XTAL2-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=L1-1
+Added Pin To Net: NetName=NetC15_2 Pin=U1-30
+Added Net: Name=NetC15_2
+Added Member To Class: ClassName=Sheet_v1 Member=Component C28 NF
+Added Member To Class: ClassName=Sheet_v1 Member=Component C29 NF
+Added Member To Class: ClassName=Sheet_v1 Member=Component C30 10n
+Added Member To Class: ClassName=Sheet_v1 Member=Component C31 47n
+Added Member To Class: ClassName=Sheet_v1 Member=Component C32 47n
+Added Member To Class: ClassName=Sheet_v1 Member=Component C33 C
+Added Member To Class: ClassName=Sheet_v1 Member=Component C34 560p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C35 4.7u
+Added Member To Class: ClassName=Sheet_v1 Member=Component C36 4.7u
+Added Member To Class: ClassName=Sheet_v1 Member=Component L2 lqm21pn1r0mc0d
+Added Member To Class: ClassName=Sheet_v1 Member=Component XTAL1 XTAL
+Added Member To Class: ClassName=Sheet_v1 Member=Component XTAL2 32.768 kHz

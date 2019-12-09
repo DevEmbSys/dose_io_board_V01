@@ -1,0 +1,18 @@
+Added Component: Designator=J2(U.FL)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=L1-2
+Added Net: Name=NetJ2_1
+Added Member To Class: ClassName=Sheet_v1 Member=Component C5 1u
+Added Member To Class: ClassName=Sheet_v1 Member=Component C6 12p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C8 12p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C9 12p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C10 100n
+Added Member To Class: ClassName=Sheet_v1 Member=Component C11 100p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C13 12p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C15 0.8p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C16 100n
+Added Member To Class: ClassName=Sheet_v1 Member=Component J2 Connector(U.FL)
+Added Member To Class: ClassName=Sheet_v1 Member=Component L1 3.9n

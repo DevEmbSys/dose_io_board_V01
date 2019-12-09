@@ -1,0 +1,19 @@
+Added Component: Designator=C?(C0402)
+Added Component: Designator=P?(HDR1X2)
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=P?-2
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? C
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? C
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? C_TANTAL
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 4.7u
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 4.7u
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 560p
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? C
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? NTS0304
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? ZSSC3122
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? MIC23050-SYML
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? STBC08
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? BQ51013B
+Added Member To Class: ClassName=Sheet_v1 Member=Component D? IIS2DH
+Added Member To Class: ClassName=Sheet_v1 Member=Component P? BAT

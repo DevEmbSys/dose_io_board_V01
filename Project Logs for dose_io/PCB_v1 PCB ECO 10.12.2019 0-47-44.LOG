@@ -1,0 +1,38 @@
+Change Component Comment : Designator=C1 Old Comment=C New Comment=100n
+Change Component Comment : Designator=C2 Old Comment=C New Comment=100n
+Added Component: Designator=C?(C0402)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(C0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=D1-7
+Added Pin To Net: NetName=3V3 Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D5-5
+Added Pin To Net: NetName=GND Pin=D5-6
+Added Pin To Net: NetName=GND Pin=D5-7
+Added Pin To Net: NetName=GND Pin=D5-8
+Added Pin To Net: NetName=3V3 Pin=D5-9
+Added Pin To Net: NetName=3V3 Pin=D5-10
+Added Pin To Net: NetName=3V3 Pin=U1-13
+Added Pin To Net: NetName=3V3 Pin=U1-36
+Added Pin To Net: NetName=3V3 Pin=U1-48
+Added Pin To Net: NetName=CAP_ALARM_H Pin=D1-9
+Added Net: Name=CAP_ALARM_H
+Added Pin To Net: NetName=CAP_ALARM_L Pin=D1-8
+Added Net: Name=CAP_ALARM_L
+Added Pin To Net: NetName=CAP_READY Pin=D1-10
+Added Net: Name=CAP_READY
+Added Pin To Net: NetName=CAP_SCLK Pin=D1-13
+Added Net: Name=CAP_SCLK
+Added Pin To Net: NetName=CAP_SDA Pin=D1-12
+Added Net: Name=CAP_SDA
+Added Pin To Net: NetName=GSM_RESET Pin=C?-2
+Added Pin To Net: NetName=GSM_RESET Pin=D3-28
+Added Net: Name=GSM_RESET
+Added Pin To Net: NetName=GSM_STATUS Pin=D3-42
+Added Net: Name=GSM_STATUS
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet_v1 Member=Component C? 100n

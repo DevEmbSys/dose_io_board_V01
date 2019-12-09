@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=3V3 Pin=D5-3
+Added Pin To Net: NetName=GND Pin=U1-45
+Added Pin To Net: NetName=ACC_INT1 Pin=D5-12
+Added Net: Name=ACC_INT1
+Added Pin To Net: NetName=ACC_INT2 Pin=D5-11
+Added Net: Name=ACC_INT2
+Added Pin To Net: NetName=ACC_SCL Pin=D5-1
+Added Net: Name=ACC_SCL
+Added Pin To Net: NetName=ACC_SDA Pin=D5-4
+Added Net: Name=ACC_SDA

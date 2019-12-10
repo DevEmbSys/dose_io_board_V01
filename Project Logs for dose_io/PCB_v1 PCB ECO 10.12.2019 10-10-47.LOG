@@ -1,0 +1,7 @@
+Added Component: Designator=VT1(CSD13380F3)
+Added Pin To Net: NetName=GND Pin=D6-AD
+Added Pin To Net: NetName=SWDCLK Pin=U1-25
+Added Net: Name=SWDCLK
+Added Pin To Net: NetName=SWDIO Pin=U1-26
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=Sheet_v1 Member=Component VT1 CSD13380F3

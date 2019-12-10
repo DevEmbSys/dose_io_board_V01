@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-2
+Removed Pin From Net: NetName=3V3 Pin=D1-7
+Change Component Comment : Designator=VT1 Old Comment=CSD13380F3 New Comment=CSD23280F3
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Added Component: Designator=R1(R0402)
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=NetC7_1 Pin=VT1-D
+Added Pin To Net: NetName=3V3 Pin=VT1-S
+Added Pin To Net: NetName=CAP_PWR Pin=C1-2
+Added Pin To Net: NetName=CAP_PWR Pin=D1-7
+Added Pin To Net: NetName=CAP_PWR Pin=U1-21
+Added Net: Name=CAP_PWR
+Added Pin To Net: NetName=GSM_PWR Pin=R1-2
+Added Pin To Net: NetName=GSM_PWR Pin=U1-22
+Added Pin To Net: NetName=GSM_PWR Pin=VT1-G
+Added Net: Name=GSM_PWR
+Added Member To Class: ClassName=Sheet_v1 Member=Component R8 R

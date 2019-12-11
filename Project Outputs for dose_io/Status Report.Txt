@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [dose_io.PrjPCB]
+   Generated File[PCB_v1-Plated.TXT]
+   Generated File[PCB_v1.DRL]
+   Generated File[PCB_v1.LDP]
+   Generated File[PCB_v1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:13:37 On 11.12.2019

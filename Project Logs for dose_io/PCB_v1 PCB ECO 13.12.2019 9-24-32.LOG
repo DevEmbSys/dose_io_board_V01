@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=D8-7
+Removed Pin From Net: NetName=ACC_INT1 Pin=U1-10
+Removed Pin From Net: NetName=ACC_INT2 Pin=U1-11
+Removed Pin From Net: NetName=GND Pin=XTAL1-GND
+Removed Pin From Net: NetName=GND Pin=XTAL1-GND
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=R?(R0402)
+Added Component: Designator=SB?(SB)
+Added Component: Designator=SB?(SB)
+Added Pin To Net: NetName=PIN1 Pin=R?-2
+Added Pin To Net: NetName=PIN2 Pin=R?-2
+Added Pin To Net: NetName=PIN3 Pin=R?-2
+Added Pin To Net: NetName=ACC_SCL Pin=SB?-1
+Added Pin To Net: NetName=ACC_SDA Pin=SB?-1
+Added Pin To Net: NetName=CAP_SCLK Pin=SB?-2
+Added Pin To Net: NetName=CAP_SDA Pin=SB?-2
+Added Pin To Net: NetName=ACC_INT1 Pin=U1-6
+Added Pin To Net: NetName=ACC_INT2 Pin=U1-7
+Added Pin To Net: NetName=AIN0 Pin=R?-1
+Added Pin To Net: NetName=AIN0 Pin=U1-4
+Added Net: Name=AIN0
+Added Pin To Net: NetName=AIN1 Pin=R?-1
+Added Pin To Net: NetName=AIN1 Pin=U1-5
+Added Net: Name=AIN1
+Added Pin To Net: NetName=AIN2 Pin=R?-1
+Added Net: Name=AIN2
+Added Pin To Net: NetName=AIN3 Pin=R?-1
+Added Net: Name=AIN3
+Added Member To Class: ClassName=Sheet_v1 Member=Component R? R
+Added Member To Class: ClassName=Sheet_v1 Member=Component R? R
+Added Member To Class: ClassName=Sheet_v1 Member=Component R? R
+Added Member To Class: ClassName=Sheet_v1 Member=Component R? R
+Added Member To Class: ClassName=Sheet_v1 Member=Component SB? SB
+Added Member To Class: ClassName=Sheet_v1 Member=Component SB? SB

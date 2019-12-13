@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PIN6 Pin=U1-42
+Added Component: Designator=VT3(CSD13380F3)
+Added Pin To Net: NetName=PIN6 Pin=VT3-D
+Added Pin To Net: NetName=GND Pin=VT3-S
+Added Pin To Net: NetName=P0.08 Pin=VT3-G
+Added Net: Name=P0.08
+Added Member To Class: ClassName=Sheet_v1 Member=Component VT3 CSD13380F3

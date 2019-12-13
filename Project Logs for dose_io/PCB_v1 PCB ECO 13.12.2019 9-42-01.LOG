@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=Sheet_v1 Member=R?
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R7
+Change Component Designator: OldDesignator=R4 NewDesignator=R8
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R11
+Change Component Designator: OldDesignator=R8 NewDesignator=R12
+Change Component Designator: OldDesignator=R9 NewDesignator=R13
+Change Component Designator: OldDesignator=R10 NewDesignator=R14
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Designator: OldDesignator=R12 NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=SB? NewDesignator=SB1
+Change Component Designator: OldDesignator=SB? NewDesignator=SB2
+Added Member To Class: ClassName=Sheet_v1 Member=Component R13 620
+Added Member To Class: ClassName=Sheet_v1 Member=Component R14 620
+Added Member To Class: ClassName=Sheet_v1 Member=Component R15 20k
+Added Member To Class: ClassName=Sheet_v1 Member=Component R16 R
+Added Member To Class: ClassName=Sheet_v1 Member=Component SB1 SB

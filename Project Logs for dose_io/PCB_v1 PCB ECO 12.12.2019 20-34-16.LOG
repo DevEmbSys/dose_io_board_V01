@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Added Component: Designator=J2(ANT_2G44)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=ANT_2G4 Pin=J2-ANT
+Added Pin To Net: NetName=GND Pin=J2-GND
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetJ3_1
+Added Member To Class: ClassName=Sheet_v1 Member=Component C7 12p
+Added Member To Class: ClassName=Sheet_v1 Member=Component J3 Connector(U.FL)

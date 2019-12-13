@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=MCU_RX Pin=U1-17
+Removed Pin From Net: NetName=MCU_TX Pin=U1-18
+Removed Pin From Net: NetName=MCU_DTR Pin=U1-19
+Removed Pin From Net: NetName=MCU_CTS Pin=U1-20
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Added Pin To Net: NetName=MCU_CTS Pin=U1-17
+Added Pin To Net: NetName=MCU_DTR Pin=U1-18
+Added Pin To Net: NetName=MCU_TX Pin=U1-19
+Added Pin To Net: NetName=MCU_RX Pin=U1-20
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ2_1

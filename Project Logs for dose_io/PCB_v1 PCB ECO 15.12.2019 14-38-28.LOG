@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=D1-25
+Removed Pin From Net: NetName=PIN4 Pin=U1-40
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Added Component: Designator=R7(R0402)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PIN4 Pin=R7-2
+Added Pin To Net: NetName=PIN4 Pin=U1-22
+Added Pin To Net: NetName=AIN4 Pin=R7-1
+Added Pin To Net: NetName=AIN4 Pin=U1-40
+Added Net: Name=AIN4
+Added Member To Class: ClassName=Sheet_v1 Member=Component R16 R

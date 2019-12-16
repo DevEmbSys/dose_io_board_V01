@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=B? NewDesignator=B1
+Change Component Designator: OldDesignator=VT3 NewDesignator=VT4
+Added Component: Designator=VT3(CSD13380F3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=B1-1
+Added Pin To Net: NetName=GND Pin=VT3-S
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=VT3-D
+Added Net: Name=NetB1_2
+Added Member To Class: ClassName=Sheet_v1 Member=Component VT4 CSD13380F3

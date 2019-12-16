@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=D1-25
+Removed Pin From Net: NetName=GND Pin=D2-15
+Removed Pin From Net: NetName=GND Pin=D4-9
+Removed Pin From Net: NetName=GND Pin=D8-7
+Removed Pin From Net: NetName=GND Pin=U1-0
+Removed Pin From Net: NetName=GND Pin=XTAL1-GND
+Removed Pin From Net: NetName=GND Pin=XTAL1-GND
+Added Member To Class: ClassName=Sheet_v1 Member=Component D1 ZSSC3230

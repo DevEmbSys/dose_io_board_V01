@@ -1,0 +1,3 @@
+Added Component: Designator=D1(VFQFPN-24)
+Added Pin To Net: NetName=CAP_PWR Pin=D1-23
+Added Member To Class: ClassName=Sheet_v1 Member=Component D1 ZSSC3230

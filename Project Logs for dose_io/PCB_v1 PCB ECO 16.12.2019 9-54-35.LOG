@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=D2-15
+Removed Pin From Net: NetName=GND Pin=D4-9
+Removed Pin From Net: NetName=GND Pin=D8-7
+Removed Pin From Net: NetName=GND Pin=U1-0
+Removed Pin From Net: NetName=GND Pin=XTAL1-GND
+Removed Pin From Net: NetName=GND Pin=XTAL1-GND
+Added Component: Designator=D1(VFQFPN-24)
+Added Pin To Net: NetName=CAP_C0 Pin=D1-2
+Added Pin To Net: NetName=CAP_CC_1 Pin=D1-3
+Added Pin To Net: NetName=CAP_RESQ Pin=D1-4
+Added Pin To Net: NetName=GND Pin=D1-5
+Added Pin To Net: NetName=CAP_SDA Pin=D1-8
+Added Pin To Net: NetName=CAP_SCLK Pin=D1-11
+Added Pin To Net: NetName=GND Pin=D1-14
+Added Pin To Net: NetName=CAP_READY Pin=D1-15
+Added Pin To Net: NetName=CAP_CC_2 Pin=D1-17
+Added Pin To Net: NetName=GND Pin=D1-20
+Added Pin To Net: NetName=CAP_PWR Pin=D1-23
+Added Member To Class: ClassName=Sheet_v1 Member=Component D1 ZSSC3230
